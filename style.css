@@ -1,0 +1,16 @@
+body {
+  background-color: lavenderblush;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+h1 {
+  color: #800080;
+}
+h3{
+  color: darkmagenta;
+}
